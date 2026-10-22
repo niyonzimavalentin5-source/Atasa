@@ -1,0 +1,7 @@
+{
+  "name": "ATASA — Premium Photo Gallery",
+  "description": "Discover beauty. Share your perspective. A classic, photography-first social network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
